@@ -9,3 +9,4 @@ def test_getting_posts():
     response.assert_status_code(200)
 
 
+
